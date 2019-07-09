@@ -1,4 +1,5 @@
-pro.name = 测试test
-pro.age = 30
-pro.provice = 湖北
-pro.city = 武汉
+pro:
+  name: 测试dev
+  age: 30
+  provice: 湖北
+  city: 武汉
