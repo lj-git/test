@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/mysql1?autoReconnect=true&autoReconnectForPools=true&useUnicode=true&characterEncoding=UTF-8&serverTimezone=UTC
-    username: root
-    password: root
-    driver-class-name: com.mysql.jdbc.Driver
-pro:
-  name: 测试
