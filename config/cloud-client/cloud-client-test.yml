@@ -6,6 +6,6 @@ pro:
 spring:  
   rabbitmq:
     host: 127.0.0.1
-    port: 5672
+    port: 56721
     username: guest
     password: guest
