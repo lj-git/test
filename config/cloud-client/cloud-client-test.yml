@@ -3,3 +3,9 @@ pro:
   age: 30
   provice: 湖北
   city: 武汉
+spring:  
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
